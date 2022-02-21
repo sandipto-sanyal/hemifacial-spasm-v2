@@ -75,7 +75,7 @@ He checked my condition sincerely, checked my previous prescriptions of all the 
 """
 homeopathy_consultation_reaction = """**Reaction:** The consultation with Dr. Sukul was a lesson in disguise for that at any point of time if I face anything where I lack expertise in something then I have 2 action items:\n
 - Not to feel shame and tell the fact about your inexpertise in the particular area upfront.
-- If you know who/where they opposite party can get guidance direct them there.
+- If you know who/where the opposite party can get guidance direct them there.
 He provided the direction the right direction with clear guidance.
 """
 
