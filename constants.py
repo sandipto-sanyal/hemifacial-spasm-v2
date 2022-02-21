@@ -22,26 +22,17 @@ constantly. Also at random times the face used to pull itself for few seconds an
 then released. There was a burning sensation in both the eyes too.
 """
 
-dipankar_roy_link = 'https://www.justdial.com/Kolkata/dipankar-roy-Near-Bata-Behala/033PXX33-XX33-170322114831-E7B7_BZDET'
-eye_consultation1 = """I consulted an opthalmologist in my hometown Kolkata named [Dr. Dipankar Roy](%s).
-During his consultation he told me: **"Eye twitching is NOT a disease. It comes and goes away."**
-"""
-eye_consultation1_reaction = """**Reaction:** Myself coming from a consulting and solution providing background, knew that this is **NOT** how a medical
-consultant should speak to his/her patients. This is for the following reasons:\n
-- The patient has not visited the doctor if the problem is not troubling him/her. He/She is searching for a solution.
-- Something that might not seem to be a problem for the consultant, might be a big problem for the patient/client.
-"""
-
 somnath_majumdar_link = 'https://www.fortiskolkata.com/doctor/dr-somnath-mazumdar-131'
 fortis_link = 'https://www.fortiskolkata.com/'
-eye_consultation2 = """Following the disappointing counsultation outcome under Dr. Dipankar Roy, I went to [Dr. Somnath Majumdar](%s).
+eye_consultation2 = """I went to meet our family opthalmologist [Dr. Somnath Majumdar](%s).
 After the consultation, it was found that I was suffering from severe dry eyes syndrome due to
 my office air conditioning. Eye twitching is one of the most common symptoms for dry eyes. The doctor prescribed appropriate medicines
 and ointments. He also mentioned that if the twitching doesn't go away I might have to do an MRI to rule out any presence of brain tumor.
 """
-eye_consultation2_reaction = """**Reaction:** Atleast I could see that the doctor showed genuine interest in the problem that I am facing and
-started the diagnosis of the most common factor. He also didn't rule out extreme factors too. Though I felt that the twitching is a different as it
-used to latch the left side of my face as shown below.
+eye_consultation2_reaction = """**Reaction:** After the consultation with Dr. Majumdar I was satistfied because:\n
+- As I come from IT Consulting background, he made me awaare of the most common workplace hazard in our profession because of staying too much in office air conditioning.
+- He had started the diagnosis of the most common factor. He also didn't rule out extreme factors too. 
+Though I felt that the twitching is of different nature as it used to latch the left side of my face as shown below, yet I could get a good guidance as a starting point.
 """
 
 lvpei_link = 'https://www.lvpei.org/'
@@ -60,7 +51,7 @@ neuro_consultation1 = """I went to Care Hospital's Hi-Tech City branch Neuro Sci
 He explained me clearly that I was suffering from a condition called **Hemifacial Spasm** which happens when an artery conflicts with the facial nerve.
 Within 10 minutes I was explained the possible treatments for this disease:\n
 - Use of Botox Injection - the temporary solution lasts for around 4-5 months.
-- Micro Vascular Decompression surgery - the permanent one where the surgen enters the affected area from behind the ear and skull and puts a teflon between the offending vessel and nerve complex.
+- Micro Vascular Decompression surgery - the permanent one where the surgeon enters the affected area from behind the ear and skull and puts a teflon between the offending vessel and nerve complex.
 """
 neuro_consultation1_reaction = """**Reaction:** I was satisfied the way he explained in precise and concise fashion. But hearing about **Neuro Surgery** gave me more tension than previous.
 Though I was looking for a permanent solution to my problem, but neuro surgery wasn't certainly one of them.
@@ -69,38 +60,23 @@ tension_gif2 = 'https://media.giphy.com/media/VInY2XLu6g41nB1x5T/giphy-downsized
 
 ps_das_link = 'https://psdasyogapathy.org/index.html'
 ps_das_consultation = """As I was greatly startled by the fact that the permanent solution involves **Neuro Surgery**, I frantically started looking for alternative options. I eventually landed at yoga consultation of [Prem Sundar Das](%s).
-I was told to do multiple blood tests and turned out to be deficient in Vitamin B12 and D3. PS Das advised me to take Vitamin B12 and D3 supplements and do some facial exercises which he **confidently** assured will cure my disease.
+I was told to do multiple blood tests and turned out to be deficient in Vitamin B12 and D3. PS Das advised me to take Vitamin B12 and D3 supplements and do some facial exercises which he might help reduce the spasms that are occurring.
 """
 ps_das_consultation_reaction = """**Reaction:** After taking the medications the problem seemed to reduce but not eradicated. The reactions were as below:\n
-- Myself and my parents were skeptical about too much consumption of Vitamin medications as high levels without proper monitoring can lead to toxicity. 
-- However this consultation made me aware of work place hazard for IT employees where we are required to stay in office Air Condition for very long hours with less exposure to sunlight. 
-- Somewhere we felt that Dr. PS Das was avoiding the actual problem and diverting the treatment to another direction.
-- The facial exercises that were suggested could only be done if and only if the face is not going through the spasm but slowly my condition has become such that even while blinking the spasm was occuring as seen below.
-"""
-
-
-anshuman_link = 'https://www.docton.in/doctor/154/angshuman-mukherjee'
-trishit_link = 'https://www.calcuttayellowpages.com/adver/109661.html'
-neuro_consultation2 = """After seeing no results from the Yogapathy I finally decided to go for surgery only. I went to two famous neurologists in Kolkata - Dr. Anshuman Mukherjee and Dr. Trishit Roy. Both of them suggested only Botox and no surgery was advised.
-Above all they prescribed medicine for **Epilepsy** without doing tests like EEG and/or MRI etc.
-"""
-neuro_consultation2_reaction = """**Reaction:** My cousin sister used to suffer from epileptic fits and was under treatment of Dr. Anshuman Mukherjee for a very long time. Luckily, we had prior experience about kind of tests that need to be performed before diagnosing for epilepsy. 
-Two points that bugged us:\n
-- I was not having any epileptic seizures as my cousin sister had.
-- If I start medicines for epilepsy, I will have two more complications:
-    - Suffer from drowsiness during daytime. This is a big problem to my profession which requires having good attention especially during daytime.
-    - Very difficult to stop the medication and it might become a long term liability for me.
+- The consultation made me aware of another work place hazard for IT employees where we are required to stay in office spaces for very long hours with less exposure to sunlight. 
+- Though I was practising the yoga, yet the facial exercises turned out to be challenging for me, because they could be correctly done if my face was not going through the spasm. But slowly my condition worsened to such that even while blinking the spasm was occuring as seen below.
 """
 
 anirban_link = 'https://www.sukulhomeopathy.com/'
 homeopathy_consultation = """In life I got another proof of what I believe in: **if you know your aspiration correctly you will find the correct guide at the correct time** when I met Dr. Anirban Sukul. 
-He checked my condition sincerely, checked my previous prescriptions of all the doctors that I consulted and gave me the following three valuable advice:\n
-- Don't take medications neither of epilepsy nor vitamins without test results.
-- There are many different types of epilepsies. He learnt this fact after visiting [NIMHANS Bangalore]({0:s}). Try to visit the place. Whatever they will advise consider it to be the only truth.
-- He also advised me **NOT** to revisit him for this problem because he doesn't know what is happening with me. My symptoms are out of his knowledge area and he can not prescribe any medication for me
+He checked my condition sincerely, checked my previous prescriptions of all the doctors that I consulted and gave me the following advice:\n
+- Since Dr. Murthy of Care hospital had already mentioned about this disease being a neurological problem, its better to get a second opinion from India's one of the best neuroscience institutes, [NIMHANS Bangalore]({0:s}). We should definitely try to visit the place once.
+- He also advised me **NOT** to revisit him for this problem because he doesn't know what is happening with me. My symptoms are out of his knowledge area and he can not prescribe any medication for me.
 """
-homeopathy_consultation_reaction = """**Reaction:** There are very few people I know who doesn't feel any shame to tell the fact the they have inexpertise in something. Dr. Sukul is one of them. For that my respect for him is very high.
-He provided the direction to best neuroscience institute in India without holding me back with unnecessary medications.
+homeopathy_consultation_reaction = """**Reaction:** The consultation with Dr. Sukul was a lesson in disguise for that at any point of time if I face anything where I lack xpertise in something then I have 2 action items:\n
+- Not to feel shame and tell the fact about your inexpertise in the particular area upfront.
+- If you know who/where they opposite party can get guidance direct them there.
+He provided the direction the right direction with clear guidance.
 """
 
 nimhans_link = 'https://nimhans.ac.in/'
@@ -160,7 +136,6 @@ As I am writing this whole blog about my whole journey I feel extremely thankful
 """
 key_takeaways = """As I ponder upon the takeaways from my journey against this disease, I would like to jot them down for the readers to be aware of certain things that may help them get the right diagnosis:\n
 - I had a bias against going for neuro-surgery which caused diversion in the treatment at one point. We shouldn't possess any bias against any kind of surgery if its the only permanent solution to the problem that we as patients are facing. Talk to the consultant surgeon freely, talk about your fears, constraints and doubts. They are there to help you out. Trust them.
-- If at any point of time you feel that the consultant's words and way of treatment seems that he/she is not eager to take up your problem seriously change the consultant immediately. Its highly probable that they are going to divert away from actual root cause of the treatment.
 - Stay strong, take prescribed medications especially after discharge for quick recovery. Don't rely on your superficial knowledge on medicines during this time.
 \n\n
 Below I share the two videos, first one is taken before the surgery, the second one on 8 days after the surgery.
