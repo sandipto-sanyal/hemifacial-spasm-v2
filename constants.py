@@ -30,7 +30,7 @@ my office air conditioning. Eye twitching is one of the most common symptoms for
 and ointments. He also mentioned that if the twitching doesn't go away I might have to do an MRI to rule out any presence of brain tumor.
 """
 eye_consultation2_reaction = """**Reaction:** After the consultation with Dr. Majumdar I was satistfied because:\n
-- As I come from IT Consulting background, he made me awaare of the most common workplace hazard in our profession because of staying too much in office air conditioning.
+- As I come from IT Consulting background, he made me aware of the most common workplace hazard in our profession because of staying too much in office air conditioning.
 - He had started the diagnosis of the most common factor. He also didn't rule out extreme factors too. 
 Though I felt that the twitching is of different nature as it used to latch the left side of my face as shown below, yet I could get a good guidance as a starting point.
 """
