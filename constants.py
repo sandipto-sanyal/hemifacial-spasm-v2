@@ -73,7 +73,7 @@ He checked my condition sincerely, checked my previous prescriptions of all the 
 - Since Dr. Murthy of Care hospital had already mentioned about this disease being a neurological problem, its better to get a second opinion from India's one of the best neuroscience institutes, [NIMHANS Bangalore]({0:s}). We should definitely try to visit the place once.
 - He also advised me **NOT** to revisit him for this problem because he doesn't know what is happening with me. My symptoms are out of his knowledge area and he can not prescribe any medication for me.
 """
-homeopathy_consultation_reaction = """**Reaction:** The consultation with Dr. Sukul was a lesson in disguise for that at any point of time if I face anything where I lack expertise in something then I have 2 action items:\n
+homeopathy_consultation_reaction = """**Reaction:** The consultation with Dr. Sukul was a life-lesson in disguise that at any point of time if I face anything where I lack expertise in something then I have 2 action items:\n
 - Not to feel shame and tell the fact about your inexpertise in the particular area upfront.
 - If you know who/where the opposite party can get guidance direct them there.
 He provided the direction the right direction with clear guidance.
